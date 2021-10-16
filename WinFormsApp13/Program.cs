@@ -14,6 +14,7 @@ namespace WinFormsApp13
         [STAThread]
         static void Main()
         {
+            //change(1)
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
